@@ -32,3 +32,8 @@ window.addEventListener(
   (): void => LAppDelegate.releaseInstance(),
   { passive: true }
 );
+
+import "../src/ai.js"; // เชื่อมโค้ด JavaScript เข้ามา (ถ้าเขียนเป็น TypeScript ควรใช้ .ts)
+
+
+

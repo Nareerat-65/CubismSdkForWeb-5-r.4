@@ -1,0 +1,192 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 0.667,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 9,
+		"TotalSegmentCount": 20,
+		"TotalPointCount": 51,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleX",
+			"Segments": [
+				0,
+				-1,
+				1,
+				0.056,
+				-1,
+				0.111,
+				-10,
+				0.167,
+				-10,
+				1,
+				0.222,
+				-10,
+				0.278,
+				1,
+				0.333,
+				1,
+				0,
+				0.667,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleY",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.056,
+				1,
+				0.111,
+				-12,
+				0.167,
+				-12,
+				1,
+				0.222,
+				-12,
+				0.278,
+				3,
+				0.333,
+				3,
+				0,
+				0.667,
+				3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleZ",
+			"Segments": [
+				0,
+				2,
+				1,
+				0.111,
+				2,
+				0.222,
+				22,
+				0.333,
+				22,
+				0,
+				0.667,
+				22
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamCheek",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.056,
+				0,
+				0.111,
+				0,
+				0.167,
+				0,
+				1,
+				0.222,
+				0,
+				0.278,
+				1,
+				0.333,
+				1,
+				0,
+				0.667,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBodyAngleY",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.056,
+				0,
+				0.111,
+				-10,
+				0.167,
+				-10,
+				1,
+				0.222,
+				-10,
+				0.278,
+				10,
+				0.333,
+				10,
+				0,
+				0.667,
+				10
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeLOpen",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.056,
+				1,
+				0.111,
+				0,
+				0.167,
+				0,
+				0,
+				0.667,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeLSmile",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.667,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeROpen",
+			"Segments": [
+				0,
+				0.9,
+				1,
+				0.056,
+				0.9,
+				0.111,
+				0,
+				0.167,
+				0,
+				0,
+				0.667,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeRSmile",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.667,
+				1
+			]
+		}
+	]
+}

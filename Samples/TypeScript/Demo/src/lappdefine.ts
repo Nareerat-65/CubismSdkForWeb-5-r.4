@@ -48,15 +48,8 @@ export const PowerImageName = 'CloseNormal.png';
 // モデルを配置したディレクトリ名の配列
 // ディレクトリ名とmodel3.jsonの名前を一致させておくこと
 export const ModelDir: string[] = [
-  // 'Haru',
-  // 'Hiyori',
-  // 'Mark',
-  'free1',
-  // 'LiveroiD_A-Y02',
-  // 'Natori',
-  // 'Rice',
-  // 'Mao',
-  // 'Wanko'
+  'Haru',
+  'kei'
 ];
 export const ModelDirSize: number = ModelDir.length;
 

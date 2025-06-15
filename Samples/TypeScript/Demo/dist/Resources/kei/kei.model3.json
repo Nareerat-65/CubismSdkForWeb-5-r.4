@@ -1,0 +1,29 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "kei.moc3",
+		"Textures": [
+			"kei.1024/texture_00.png"
+		],
+		"Physics": "kei.physics3.json",
+		"DisplayInfo": "kei.cdi3.json",
+		"MotionSync": "kei.motionsync3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}
